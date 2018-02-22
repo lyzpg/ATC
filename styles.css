@@ -1,0 +1,53 @@
+.interesting-fact {
+	font-style: italic;
+}
+
+body {
+	font: #FF4C02;
+	font-size: 0.73em;
+	font-family: georgia, serif;
+}
+
+.card-pic {
+	max-width: 100%;
+	padding: 1px 1px 1px 1px;
+}
+
+.card {
+	line-height: 1.5;
+	padding: 10px 10px;
+}
+
+.animal-info {
+	height: 100%;
+	padding: 10px 10px;
+	border: 1px solid #FF4C02;
+}
+
+.card-container {
+	height: 100%;
+	border-radius: .rem;
+	border: 3px solid #FF4C02;
+	background-color: #F8F8F8;
+	color: #090909;
+	width: 300px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(158,147,158,1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(158,147,158,1);
+	box-shadow: 10px 10px 5px 0px rgba(158,147,158,1);
+}
+
+.card-label {
+	position: relative;
+	color: black;
+	font-weight: bold;
+	color: #8C734A;
+}
+
+.facts-list {
+	list-style: none;
+	color: #8C734A
+}
+
+.card-title {
+	padding: 1px;
+}
