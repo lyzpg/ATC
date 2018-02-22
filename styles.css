@@ -48,6 +48,10 @@ body {
 	color: #8C734A
 }
 
+.table-container {
+	position: relative;
+}
+
 .card-title {
 	padding: 1px;
 }
